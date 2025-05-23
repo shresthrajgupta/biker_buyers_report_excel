@@ -3,6 +3,8 @@
 ## Project overview
 This project involves analysis of consumer demographics and purchasing behavior to understand patterns in bike buying habits. The analysis includes data cleaning, transformation, and pivot table generation.
 
+![Dashboard Image](dashboard.jpg)
+
 ***
 
 ### Project structure
